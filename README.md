@@ -3,10 +3,9 @@
 
 🌱 I’m currently learning to become a senior backend
 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to upgrade Github Profile to PRO highlight ABSOLUTELY FREE in 5 minutes 💥💥💥](https://dev.to/minhtienvu/how-to-upgrade-github-profile-to-pro-highlight-absolutely-free-in-5-minutes-4f6d)
-- [Some helpful syntax/conventions in Rails to you 🍵🍵](https://dev.to/minhtienvu/some-helpful-syntaxconventions-in-rails-to-you-3e3j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -22,3 +21,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/minhtienvu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhtienvu" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtienvu&show_icons=true&locale=en&layout=compact" alt="minhtienvu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtienvu&show_icons=true&locale=en" alt="minhtienvu" /></p>
