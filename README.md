@@ -1,8 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Tien</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtienvu&label=Profile%20views&color=0e75b6&style=flat" alt="minhtienvu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhtienvu" alt="minhtienvu" /></a> </p>
-
 - 📝 I regularly write articles on [tienvm.com](tienvm.com)
 
 - 📫 How to reach me **minhtienvu2210@gmail.com**
@@ -26,9 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/minhtienvu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minhtienvu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtienvu&show_icons=true&locale=en&layout=compact" alt="minhtienvu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtienvu&show_icons=true&locale=en" alt="minhtienvu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtienvu&" alt="minhtienvu" /></p>
