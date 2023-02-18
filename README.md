@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to upgrade Github Profile to PRO highlight ABSOLUTELY FREE in 5 minutes 💥💥💥](https://dev.to/minhtienvu/how-to-upgrade-github-profile-to-pro-highlight-absolutely-free-in-5-minutes-4f6d)
+- [Some helpful syntax/conventions in Rails to you 🍵🍵](https://dev.to/minhtienvu/some-helpful-syntaxconventions-in-rails-to-you-3e3j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
