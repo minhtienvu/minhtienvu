@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tien</h1>
 🔭 I’m currently working as a Ruby on Rails developer
 
-🌱 I’m currently learning to become a senior backend
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
