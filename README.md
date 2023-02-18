@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tien</h1>
-- 📝 I regularly write articles on [tienvm.com](tienvm.com)
+🔭 I’m currently working as a Ruby on Rails developer
 
-- 📫 How to reach me **minhtienvu2210@gmail.com**
-
-- ⚡ Fun fact **I think I'm a studious person**
+🌱 I’m currently learning to become a senior backend
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
